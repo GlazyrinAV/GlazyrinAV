@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Alex 👋
+
+Java Developer from Russia
 
 <!--
 **GlazyrinAV/GlazyrinAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
